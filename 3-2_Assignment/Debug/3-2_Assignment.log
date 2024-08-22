@@ -1,0 +1,10 @@
+﻿  SceneManager.cpp
+C:\Users\19014\Downloads\CS330Content\CS330Content\Projects\3-2_Assignment\Source\SceneManager.cpp(190,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\19014\Downloads\CS330Content\CS330Content\Projects\3-2_Assignment\Source\SceneManager.cpp(190,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\19014\Downloads\CS330Content\CS330Content\Projects\3-2_Assignment\Source\SceneManager.cpp(190,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\19014\Downloads\CS330Content\CS330Content\Projects\3-2_Assignment\Source\SceneManager.cpp(221,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\19014\Downloads\CS330Content\CS330Content\Projects\3-2_Assignment\Source\SceneManager.cpp(221,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\19014\Downloads\CS330Content\CS330Content\Projects\3-2_Assignment\Source\SceneManager.cpp(249,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\19014\Downloads\CS330Content\CS330Content\Projects\3-2_Assignment\Source\SceneManager.cpp(249,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\19014\Downloads\CS330Content\CS330Content\Projects\3-2_Assignment\Source\SceneManager.cpp(249,17): warning C4305: 'argument': truncation from 'double' to 'float'
+  3-2_Assignment.vcxproj -> C:\Users\19014\Downloads\CS330Content\CS330Content\Projects\3-2_Assignment\Debug\3-2_Assignment.exe
